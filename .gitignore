@@ -1,0 +1,9 @@
+source_base/AutoDev_IQ_BE/indexed_projects/
+source_base/AutoDev_IQ_BE/qa_cache_storage/
+source_base/AutoDev_IQ_BE/venv/
+source_base/AutoDev_IQ_BE/__pycache__/
+.idea/
+source_base/autodeviq_app/node_modules/
+source_base/AutoDev_IQ_BE/app/dom_diff_outputs
+source_base/AutoDev_IQ_BE/dom_diff_outputs
+source_base/autodeviq_app/.next

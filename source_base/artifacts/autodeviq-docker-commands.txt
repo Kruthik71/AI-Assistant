@@ -1,0 +1,9 @@
+
+docker exec -it autodev-backend bash
+env | grep OLLAMA
+
+
+docker-compose up -d --force-recreate backend
+
+
+
